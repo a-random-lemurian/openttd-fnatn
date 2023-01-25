@@ -1,16 +1,19 @@
+VER = "1"
+MIN_COMPAT = "1"
+
 TOP = """
 // Copyright (c) 2023 Lemuria
 
 grf {
-    grfid: "lem_first_names_as_town_names";
+    grfid: "fntn";
     name: string(STR_GRF_NAME);
     desc: string(STR_GRF_DESCRIPTION);
     url: string(STR_GRF_URL);
-    version: 4;
-    min_compatible_version: 1;
+    version: """+VER+""";
+    min_compatible_version: """+MIN_COMPAT+""";
 }
 
-town_names(FNATA_MAIN, 1) {{
+town_names(FNATA_MAIN) {{
 """
 
 BOTTOM = """
