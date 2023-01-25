@@ -1,0 +1,5 @@
+##grflangid 0x01
+STR_GRF_NAME                    :First names as town names {VERSION}
+STR_GRF_DESCRIPTION             :Now you can have towns named after people's given names, like Anne, Freya, and James. Created by {AUTHORS} and licensed under: {LICENSE}
+STR_GRF_URL                     :{GIT_URL}
+STR_GAME_OPTIONS_TOWN_NAME      :First Names

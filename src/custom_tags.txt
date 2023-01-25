@@ -1,0 +1,5 @@
+
+VERSION     :0.1.0
+GIT_URL     :https://github.com/a-random-lemurian/openttd-fnatn
+LICENSE     :GNU GENERAL PUBLIC LICENSE 3.0
+AUTHORS     :Lemuria
