@@ -1,4 +1,4 @@
-FNATN: **F**irst **N**ames **A**s **T**own **N**ames
+# First Names As Town Names
 
 This is an OpenTTD NewGRF mod, that adds given names to the game, as town
 names.
