@@ -1,6 +1,6 @@
 # Changelog
 
-### 0.2.0 (not yet)
+### 0.2.0 (2023-02-07)
 Added roughly 100 names. Such as the variants of the name "Freya",
 "Isabella", and a few Russian names, and some more esoteric spellings
 of well-known names.
